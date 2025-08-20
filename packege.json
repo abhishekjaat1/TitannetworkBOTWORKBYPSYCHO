@@ -1,7 +1,7 @@
 {
-  "name": "titan network core",
+  "name": "titannetwork-bot",
   "version": "1.0.0",
-  "description": "A simple Discord bot to show Minecraft players",
+  "description": "Titan Network Discord Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
