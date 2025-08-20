@@ -6,7 +6,7 @@ const client = new Client({
 });
 
 const prefix = "!";
-const serverIP = "server.ip"; 
+const serverIP = "play.mcfleet.net"; 
 const serverPort = 25565;          
 
 client.once("ready", () => {
